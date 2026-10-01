@@ -1,0 +1,5 @@
+1. Edit a file:        nano README.md
+2. Check changes:      git status
+3. Stage the file:     git add README.md git_workflow.txt
+4. Commit the change:  git commit -m 'Add README and workflow'
+5. Push to GitHub:     git push
